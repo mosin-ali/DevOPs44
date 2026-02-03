@@ -1,2 +1,15 @@
 My name is mosinali
 en_no:202504104610044
+
+dawunlode command in vs code 
+ sudo apt install gh
+
+ git command in vs code new repo 
+
+ gh auth login
+gh repo create repo_name
+gh repo create repo_name --public
+ git add .
+ git commit -m "message"
+ git branch -M main
+ git push origin main
